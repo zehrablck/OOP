@@ -1,0 +1,15 @@
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\bin\Debug\net10.0\03.Homework.exe
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\bin\Debug\net10.0\03.Homework.deps.json
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\bin\Debug\net10.0\03.Homework.runtimeconfig.json
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\bin\Debug\net10.0\03.Homework.dll
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\bin\Debug\net10.0\03.Homework.pdb
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\03.Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\03.Homework.AssemblyInfoInputs.cache
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\03.Homework.AssemblyInfo.cs
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\03.Homework.csproj.CoreCompileInputs.cache
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\03.Homework.dll
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\refint\03.Homework.dll
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\03.Homework.pdb
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\03.Homework.genruntimeconfig.cache
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\ref\03.Homework.dll
+C:\Users\Tuff_A15\source\repos\OOP\03.Homework\obj\Debug\net10.0\03.Homew.D41A127A.Up2Date
