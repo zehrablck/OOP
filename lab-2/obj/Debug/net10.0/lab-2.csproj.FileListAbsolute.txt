@@ -1,0 +1,15 @@
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\bin\Debug\net10.0\lab-2.exe
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\bin\Debug\net10.0\lab-2.deps.json
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\bin\Debug\net10.0\lab-2.runtimeconfig.json
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\bin\Debug\net10.0\lab-2.dll
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\bin\Debug\net10.0\lab-2.pdb
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\lab-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\lab-2.AssemblyInfoInputs.cache
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\lab-2.AssemblyInfo.cs
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\lab-2.csproj.CoreCompileInputs.cache
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\lab-2.dll
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\refint\lab-2.dll
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\lab-2.pdb
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\lab-2.genruntimeconfig.cache
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\ref\lab-2.dll
+C:\Users\Tuff_A15\source\repos\OOP\lab-2\obj\Debug\net10.0\lab-2.csproj.Up2Date
