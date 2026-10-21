@@ -1,0 +1,17 @@
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\bin\Debug\net10.0-windows\lab-3.2.exe
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\bin\Debug\net10.0-windows\lab-3.2.deps.json
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\bin\Debug\net10.0-windows\lab-3.2.runtimeconfig.json
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\bin\Debug\net10.0-windows\lab-3.2.dll
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\bin\Debug\net10.0-windows\lab-3.2.pdb
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab_3._2.Form1.resources
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.csproj.GenerateResource.cache
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.AssemblyInfoInputs.cache
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.AssemblyInfo.cs
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.csproj.CoreCompileInputs.cache
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.dll
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\refint\lab-3.2.dll
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.pdb
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.genruntimeconfig.cache
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\ref\lab-3.2.dll
+C:\Users\Tuff_A15\source\repos\lab-3.2\lab-3.2\obj\Debug\net10.0-windows\lab-3.2.csproj.Up2Date
