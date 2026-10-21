@@ -1,0 +1,17 @@
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\bin\Debug\net10.0-windows\lab-3.exe
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\bin\Debug\net10.0-windows\lab-3.deps.json
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\bin\Debug\net10.0-windows\lab-3.runtimeconfig.json
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\bin\Debug\net10.0-windows\lab-3.dll
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\bin\Debug\net10.0-windows\lab-3.pdb
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab_3.Form1.resources
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.csproj.GenerateResource.cache
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.AssemblyInfoInputs.cache
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.AssemblyInfo.cs
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.csproj.CoreCompileInputs.cache
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.dll
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\refint\lab-3.dll
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.pdb
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.genruntimeconfig.cache
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\ref\lab-3.dll
+C:\Users\Tuff_A15\source\repos\lab-3\lab-3\obj\Debug\net10.0-windows\lab-3.csproj.Up2Date
