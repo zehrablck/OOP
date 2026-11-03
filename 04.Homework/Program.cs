@@ -39,7 +39,7 @@
         }
         static void PrintLastThreeDays(double[] t)
         {
-            Console.WriteLine("Bonus. Last three days:");
+            Console.WriteLine("Last three days:");
             double[] lastThreeDays = t[^3..];
             foreach (double temp in lastThreeDays)
             {
